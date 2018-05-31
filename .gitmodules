@@ -1,3 +1,6 @@
 [submodule "01-Linux"]
 	path = 01-Linux
 	url = https://gist.github.com/ClaudiaJKang/01fa211b9a3b1dd0e574e9ef0cfb40cb.git
+[submodule "02-OpenSatck"]
+	path = 02-OpenSatck
+	url = https://gist.github.com/ClaudiaJKang/39acc2e96d839eebd87701a60fe3edea
