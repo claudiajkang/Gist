@@ -4,3 +4,6 @@
 [submodule "02-OpenSatck"]
 	path = 02-OpenSatck
 	url = https://gist.github.com/ClaudiaJKang/39acc2e96d839eebd87701a60fe3edea
+[submodule "03-AWS"]
+	path = 03-AWS
+	url = https://gist.github.com/ClaudiaJKang/fd2279f923cb991c9b8653cb6b658e1b.git
