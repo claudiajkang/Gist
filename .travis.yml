@@ -1,0 +1,16 @@
+os: linux
+dist: trusty
+sudo: false
+git:
+  submodules: true
+script:
+  - echo "Start Travis"
+  - git config --global user.email $USER_EMAIL
+  - git config --global user.name $USER_NAME
+  - git checkout master
+  - git submodule update --recursive --remote
+  - git add -A
+  - git commit -a -m "Updated Gist Submodule.";echo $?;echo $?;
+  - REPO=$(git remote get-url origin | sed -e "s/$GITHUB/$GITHUB_TOKEN@$GITHUB/g")
+  - git push $REPO HEAD:master
+  - echo "Gist Submodule Fetch Done!"
