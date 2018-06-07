@@ -10,3 +10,6 @@
 [submodule "04-Docker"]
 	path = 04-Docker
 	url = https://gist.github.com/ClaudiaJKang/c14c5809cbf80518c0085adb70f9c7b4.git
+[submodule "05-Kubernetes"]
+	path = 05-Kubernetes
+	url = https://gist.github.com/ClaudiaJKang/d3fc16b43c496bc9e4e3c55c14b0cf23.git
