@@ -13,3 +13,6 @@
 [submodule "05-Kubernetes"]
 	path = 05-Kubernetes
 	url = https://gist.github.com/ClaudiaJKang/d3fc16b43c496bc9e4e3c55c14b0cf23.git
+[submodule "06-Azure"]
+	path = 06-Azure
+	url = https://gist.github.com/ClaudiaJKang/36312a12290a04fa9ca8358d1b2744b5.git
