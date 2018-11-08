@@ -16,3 +16,6 @@
 [submodule "06-Azure"]
 	path = 06-Azure
 	url = https://gist.github.com/ClaudiaJKang/36312a12290a04fa9ca8358d1b2744b5.git
+[submodule "07-uftrace"]
+	path = 07-uftrace
+	url = https://gist.github.com/ClaudiaJKang/04b95dfa84f3a936a3b4549327f4bcb5.git
